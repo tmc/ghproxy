@@ -1,0 +1,4 @@
+ghproxy
+-------
+
+A GitHub repository proxy. Can be used to serve up a GitHub repository as a simple PyPI server.
